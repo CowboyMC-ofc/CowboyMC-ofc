@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CowboyMC-ofc
-- 👀 I’m interested in ... Coding and eventually make 
+- 👀 I’m interested in ... Coding and eventually make website and games
 - 🌱 I’m currently learning ... Python and Blockcoding (Like seen in Scratch)
 - 💞️ I’m looking to collaborate on ... Scratch Games
 - 📫 How to reach me ... On GitHub
